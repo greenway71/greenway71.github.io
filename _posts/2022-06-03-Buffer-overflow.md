@@ -14,15 +14,15 @@ Practice stack based buffer overflows!
 
 
 ## Starting Immunity Debugger
+![Screenshot_2021-08-13_04_01_12](https://user-images.githubusercontent.com/35343744/196925791-6607e075-39bf-436d-8ad5-38bd9822ab37.png)
 
-[[/Bufferoverflow-screenshot/Screenshot_2021-08-13_04_01_12.png]]
 
 hello
 
 Right-click the Immunity Debugger icon on the Desktop and choose "Run as administrator".
 
 
-[[/Bufferoverflow-screenshot/Screenshot_2021-08-13_04_02_29.png]]
+![Screenshot_2021-08-13_04_02_29](https://user-images.githubusercontent.com/35343744/196926181-9e304bcf-9035-48f4-96a1-7767948b8888.png)
 
 
 When Immunity loads, click the open file icon, or choose File -> Open. Navigate to the vulnerable-apps folder on the admin user's desktop, and then the "oscp" folder. Select the "oscp" (oscp.exe) binary and click "Open".
