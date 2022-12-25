@@ -8,7 +8,7 @@ tags: tryhackme joomla sqli oscp yum
 ---
 
 ## Summary
-hello
+helloo
 Daily Bugle is free box on Tryhackme OSCP learning path. Compromise a Joomla CMS account via SQLi, practise cracking hashes and escalate your privileges by taking advantage of yum.
 categories:
 
